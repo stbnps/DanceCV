@@ -1,0 +1,23 @@
+info face="Loaded" size=64 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=61 base=26 scaleW=64 scaleH=64 pages=9 packed=0
+page id=0 file="font1.png"
+page id=1 file="font2.png"
+page id=2 file="font3.png"
+page id=3 file="font4.png"
+page id=4 file="font5.png"
+page id=5 file="font6.png"
+page id=6 file="font7.png"
+page id=7 file="font8.png"
+page id=8 file="font9.png"
+chars count=10
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=49    xadvance=31     page=0  chnl=0 
+char id=48   x=0     y=0     width=40     height=44     xoffset=3     yoffset=6    xadvance=45     page=0  chnl=0 
+char id=57   x=0     y=0     width=40     height=44     xoffset=3     yoffset=6    xadvance=45     page=1  chnl=0 
+char id=56   x=0     y=0     width=40     height=44     xoffset=3     yoffset=6    xadvance=44     page=2  chnl=0 
+char id=55   x=0     y=0     width=41     height=44     xoffset=3     yoffset=6    xadvance=44     page=3  chnl=0 
+char id=54   x=0     y=0     width=40     height=44     xoffset=3     yoffset=6    xadvance=44     page=4  chnl=0 
+char id=53   x=0     y=0     width=40     height=44     xoffset=3     yoffset=6    xadvance=44     page=5  chnl=0 
+char id=52   x=0     y=0     width=40     height=44     xoffset=3     yoffset=6    xadvance=44     page=6  chnl=0 
+char id=51   x=0     y=0     width=38     height=44     xoffset=3     yoffset=6    xadvance=43     page=7  chnl=0 
+char id=50   x=0     y=0     width=39     height=44     xoffset=3     yoffset=6    xadvance=44     page=8  chnl=0 
+char id=49   x=39     y=0     width=16     height=44     xoffset=3     yoffset=6    xadvance=20     page=8  chnl=0 
